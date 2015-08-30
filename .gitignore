@@ -1,0 +1,9 @@
+results/
+
+apache-jmeter*
+*.log
+*.jtl
+*.png
+.idea
+*.iml
+.DS_Store
